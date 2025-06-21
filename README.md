@@ -1,16 +1,35 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**DeepaKumawat89/DeepaKumawat89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm Deepak Kumawat
 
-Here are some ideas to get you started:
+### 🚀 Flutter Developer | 💡 Firebase Enthusiast | 💻 Mobile App Creator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+
+---
+
+## 📝 About Me
+
+I'm a Flutter developer who loves building fast, responsive, and beautiful mobile apps.  
+I specialize in using **Flutter + Firebase** to create real-world solutions. Clean UI, well-structured code, and performance are my priorities.
+
+---
+
+## 🔗 Let's Connect
+
+- 📧 **Email:** developerdeepak001@gmail.com 
+- 💼 [LinkedIn](https://www.linkedin.com/in/deepak-kumawat01/)  
+- 🐙 [GitHub](https://github.com/DeepaKumawat89) 
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** Java, Dart, Python, SQL  
+- **Mobile:** Flutter, Android  
+- **Backend:** Node.js, Firebase, MySQL  
+- **Tools:** Git, VS Code, Android Studio  
+- **State Management:** GetX  
+- **Other:** Firestore, Cloud Functions, REST APIs  
+
