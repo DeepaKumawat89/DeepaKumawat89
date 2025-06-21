@@ -4,8 +4,9 @@
 
 ### 🚀 Flutter Developer | 💡 Firebase Enthusiast | 💻 Mobile App Creator
 
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=DeepaKumawat89&label=Profile%20Views&color=0e75b6&style=flat)
 
+</div>
 
 ---
 
@@ -18,9 +19,9 @@ I specialize in using **Flutter + Firebase** to create real-world solutions. Cle
 
 ## 🔗 Let's Connect
 
-- 📧 **Email:** developerdeepak001@gmail.com 
+- 📧 **Email:** developerdeepak001@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/deepak-kumawat01/)  
-- 🐙 [GitHub](https://github.com/DeepaKumawat89) 
+- 🐙 [GitHub](https://github.com/DeepaKumawat89)  
 
 ---
 
@@ -32,4 +33,3 @@ I specialize in using **Flutter + Firebase** to create real-world solutions. Cle
 - **Tools:** Git, VS Code, Android Studio  
 - **State Management:** GetX  
 - **Other:** Firestore, Cloud Functions, REST APIs  
-
