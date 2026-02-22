@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:FFCA28&height=120&section=header&text=Deepak%20Kumawat&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" />
 
-### 🚀 Flutter Developer | 💡 Firebase Enthusiast | 💻 Mobile App Creator
+### 🚀 Flutter & Spring Boot Developer | 📱 Full-Stack Mobile Apps | ⚡ Building Scalable Solutions
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DeepaKumawat89&label=Profile%20Views&color=0e75b6&style=flat)
 
@@ -16,11 +16,7 @@
 
 ## 📝 About Me
 
-I'm a Flutter developer who loves building fast, responsive, and beautiful mobile apps.  
-I specialize in using **Flutter + Firebase** to create real-world solutions. Clean UI, well-structured code, and performance are my priorities.
-
-🎯 Currently working on innovative mobile applications and exploring advanced Flutter architectures.
-
+I am a Full-Stack Mobile Developer specializing in Flutter and Spring Boot. I have built real-world applications including inventory management and institute management systems with REST API integration. I focus on clean code, responsive UI design, and building scalable, efficient mobile applications.
 ---
 
 ## 🛠️ Tech Stack
@@ -55,13 +51,23 @@ I specialize in using **Flutter + Firebase** to create real-world solutions. Cle
 
 ## 🔗 Let's Connect
 
-<div align="center">
+<p align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developerdeepak001@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-kumawat01/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeepaKumawat89)
+<a href="mailto:deepakkumawat31434@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-</div>
+<a href="https://www.linkedin.com/in/deepak-kumawat01/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/DeepaKumawat89">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:FFCA28&height=100&section=footer" />
 
